@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Uploaded candidate data
+data/resumes/*
+data/linkedin/*
+data/outputs/*
+
+# Keep folders
+!data/resumes/.gitkeep
+!data/linkedin/.gitkeep
+!data/outputs/.gitkeep
+.

@@ -1,0 +1,57 @@
+Senior Python Backend Developer — Job Description
+
+Company: TechNova Solutions
+Location: Bengaluru, India (Hybrid)
+Department: Engineering
+Reports To: VP of Engineering
+
+ABOUT THE ROLE
+We are looking for an experienced Senior Python Backend Developer to join our
+high-growth fintech engineering team. You will design and build scalable REST APIs,
+contribute to our microservices architecture, and mentor junior developers.
+
+REQUIRED SKILLS
+- Python 3.9+ (expert level)
+- FastAPI or Django REST Framework
+- PostgreSQL / MySQL
+- Docker and Docker Compose
+- Git and CI/CD pipelines (GitHub Actions / Jenkins)
+- Redis (caching layer)
+- RESTful API design principles
+- Unit and integration testing (pytest)
+
+PREFERRED SKILLS
+- AWS (EC2, S3, RDS, Lambda)
+- Kubernetes / Helm charts
+- Apache Kafka or RabbitMQ
+- Elasticsearch
+- GraphQL
+
+REQUIRED EXPERIENCE
+- Minimum 3 years of professional Python backend development
+- Experience with high-traffic production systems
+- Proven ability to design database schemas and optimize SQL queries
+- Experience with agile/scrum development methodology
+
+EDUCATION
+Bachelor's or Master's degree in Computer Science, Information Technology,
+or a related engineering field.
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Developer – Associate
+- Docker Certified Associate
+- Google Cloud Professional Data Engineer
+
+KEY RESPONSIBILITIES
+- Design and implement scalable REST APIs using FastAPI
+- Write clean, well-tested, production-ready Python code
+- Optimize database queries and design efficient schemas
+- Participate in code reviews and architecture discussions
+- Collaborate with frontend and DevOps teams
+- Mentor junior engineers and support hiring efforts
+- Monitor application performance and resolve incidents
+
+COMPENSATION
+- Competitive salary (₹25-40 LPA based on experience)
+- Equity options for senior hires
+- Health insurance and flexible WFH policy
